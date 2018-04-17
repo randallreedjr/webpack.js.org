@@ -14,7 +14,7 @@ this branch:
 - [ ] Finish re-incorporating mobile sidebar
 - [ ] Re-integrate google-analytics
 - [ ] Re-incorporate `redirects.json`
-- [x] Populate page title in `server.jsx` (fernando)
+- [ ] Populate page title in `server.jsx` (fernando)
 - [ ] Finish `Navigation` component (greg)
 - [x] Add custom route for landing page (greg)
 
